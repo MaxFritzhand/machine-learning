@@ -1,10 +1,17 @@
 # machine-learning
-Lessons on machine learning fundamentals 
+
+<h3> Lessons on machine learning fundamentals: </h3>
 
 -Logistic Regression
+<p>
 -Clustering
+<p>
 -K-nearest neighbors (KNN)
+<p>
 -Polynomial Regression
+<p>
 -Regression SciKit
--Unsupervised Clustering
+<p>
+-Unsupervised Clustering 
+<p>
 -Multilayer perceptron (mlp)
